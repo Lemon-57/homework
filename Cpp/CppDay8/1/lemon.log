@@ -1,0 +1,30 @@
+2022-06-26 13:33:52,228 [TestModule] [FATAL] The log is fatal message  HelloLog4.cpp  72  fatal
+2022-06-26 13:33:52,228 [TestModule] [CRIT] The log is crit message
+2022-06-26 13:33:52,228 [TestModule] [ERROR] The log is error message
+2022-06-26 13:33:52,228 [TestModule] [WARN] The log is warn message
+2022-06-26 13:33:52,228 [TestModule] [INFO] The log is info message
+2022-06-26 13:33:52,228 [TestModule] [DEBUG] The log is debug message
+2022-06-26 14:08:41,587 [TestModule] [FATAL] The log is fatal message  HelloLog4.cpp  104 main
+2022-06-26 14:08:41,587 [TestModule] [CRIT] The log is crit message
+2022-06-26 14:08:41,587 [TestModule] [ERROR] The log is error message
+2022-06-26 14:08:41,588 [TestModule] [WARN] The log is warn message
+2022-06-26 14:08:41,588 [TestModule] [INFO] The log is info message
+2022-06-26 14:08:41,588 [TestModule] [DEBUG] The log is debug message
+2022-06-26 14:17:25,575 [TestModule] [FATAL] The log is fatal message  HelloLog4.cpp  118 main
+2022-06-26 14:17:25,575 [TestModule] [CRIT] The log is crit message  HelloLog4.cpp  119 main
+2022-06-26 14:17:25,575 [TestModule] [ERROR] The log is error message  HelloLog4.cpp  120 main
+2022-06-26 14:17:25,575 [TestModule] [WARN] The log is warn message  HelloLog4.cpp  121 main
+2022-06-26 14:17:25,575 [TestModule] [INFO] The log is info message  HelloLog4.cpp  122 main
+2022-06-26 14:17:25,575 [TestModule] [DEBUG] The log is debug message  HelloLog4.cpp  123 main
+2022-06-26 14:18:27,279 [TestModule] [FATAL] The log is fatal message  HelloLog4.cpp  118 main
+2022-06-26 14:18:27,279 [TestModule] [CRIT] The log is crit message  HelloLog4.cpp  119 main
+2022-06-26 14:18:27,280 [TestModule] [ERROR] The log is error message  HelloLog4.cpp  120 main
+2022-06-26 14:18:27,280 [TestModule] [WARN] The log is warn message  HelloLog4.cpp  121 main
+2022-06-26 14:18:27,280 [TestModule] [INFO] The log is info message  HelloLog4.cpp  122 main
+2022-06-26 14:18:27,280 [TestModule] [DEBUG] The log is debug message  HelloLog4.cpp  123 main
+2022-06-26 14:20:26,434 [TestModule] [FATAL] The log is fatal message  HelloLog4.cpp  118 main
+2022-06-26 14:20:26,434 [TestModule] [CRIT] The log is crit message  HelloLog4.cpp  119 main
+2022-06-26 14:20:26,434 [TestModule] [ERROR] The log is error message  HelloLog4.cpp  120 main
+2022-06-26 14:20:26,434 [TestModule] [WARN] The log is warn message  HelloLog4.cpp  121 main
+2022-06-26 14:20:26,434 [TestModule] [INFO] The log is info message  HelloLog4.cpp  122 main
+2022-06-26 14:20:26,434 [TestModule] [DEBUG] The log is debug message  HelloLog4.cpp  123 main

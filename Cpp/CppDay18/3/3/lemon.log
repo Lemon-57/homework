@@ -1,0 +1,8 @@
+2022-07-08 20:15:51,276 [TestModule] [INFO] This is an info message. number = -884237216, str = (null)
+
+2022-07-08 20:21:20,469 [TestModule] [INFO] This is an info message. number = 100, str = hello, log4cpp
+
+2022-07-08 20:24:25,158 [TestModule] [INFO] This is an info message. number = 100, str = hello, log4cpp
+
+2023-11-02 14:06:58,657 [TestModule] [INFO] This is an info message. number = 100, str = hello, log4cpp
+
